@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1da7fe1e-a3ce-43e2-9197-7babec507ae1" name="Default Changelist" comment="Commit #5" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectId" id="1iSqXzCOZiATLVLXGHVudcqmTWH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mongo" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gurva\PhpstormProjects\evicket_api\public\images" />
+      <recent name="C:\Users\PC-LENOVO-1\PhpstormProjects\evicket_api\upload" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gurva\PhpstormProjects\evicket_api\public\images" />
+      <recent name="C:\Users\gurva\PhpstormProjects\evicket_api\upload" />
+      <recent name="C:\Users\PC-LENOVO-1\PhpstormProjects\evicket_api\public\images" />
+      <recent name="C:\Users\PC-LENOVO-1\PhpstormProjects\evicket_api\public\fonts" />
+      <recent name="C:\Users\PC-LENOVO-1\PhpstormProjects\evicket_api\public\fonts\roboto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1da7fe1e-a3ce-43e2-9197-7babec507ae1" name="Default Changelist" comment="" />
+      <created>1601911384177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601911384177</updated>
+      <workItem from="1601911385321" duration="850000" />
+      <workItem from="1601968503941" duration="9269000" />
+      <workItem from="1601984829998" duration="7058000" />
+      <workItem from="1602054717051" duration="18765000" />
+      <workItem from="1602486477137" duration="24519000" />
+      <workItem from="1602659873284" duration="5634000" />
+      <workItem from="1602746343116" duration="9705000" />
+      <workItem from="1603091572310" duration="23547000" />
+      <workItem from="1603177863141" duration="17697000" />
+      <workItem from="1603265531052" duration="21748000" />
+      <workItem from="1603368340091" duration="5495000" />
+      <workItem from="1603699686212" duration="11863000" />
+      <workItem from="1603786448639" duration="182000" />
+      <workItem from="1603786735956" duration="11353000" />
+      <workItem from="1603872852044" duration="13005000" />
+      <workItem from="1604044943316" duration="7295000" />
+      <workItem from="1604304358048" duration="14255000" />
+      <workItem from="1604390579407" duration="5297000" />
+      <workItem from="1604478235745" duration="3658000" />
+      <workItem from="1604528776761" duration="10000" />
+      <workItem from="1604564284029" duration="3849000" />
+      <workItem from="1604651154515" duration="11195000" />
+      <workItem from="1604691381684" duration="601000" />
+      <workItem from="1604910479388" duration="18874000" />
+      <workItem from="1604939948457" duration="850000" />
+      <workItem from="1604996300344" duration="3720000" />
+      <workItem from="1605000556213" duration="7483000" />
+      <workItem from="1605101627661" duration="1326000" />
+      <workItem from="1605169242527" duration="2796000" />
+      <workItem from="1605191687877" duration="5362000" />
+      <workItem from="1605255257246" duration="18838000" />
+      <workItem from="1605473440699" duration="648000" />
+      <workItem from="1605515038627" duration="11956000" />
+      <workItem from="1605602328788" duration="8937000" />
+      <workItem from="1605686668060" duration="715000" />
+      <workItem from="1605692771449" duration="6928000" />
+      <workItem from="1605774950824" duration="5844000" />
+      <workItem from="1605861306941" duration="11351000" />
+      <workItem from="1606119679604" duration="7509000" />
+      <workItem from="1606206103807" duration="2331000" />
+      <workItem from="1606292258015" duration="4485000" />
+      <workItem from="1606377913992" duration="1439000" />
+      <workItem from="1606464883510" duration="653000" />
+      <workItem from="1606556963118" duration="978000" />
+      <workItem from="1606567573496" duration="1000" />
+      <workItem from="1606723060120" duration="10526000" />
+      <workItem from="1606810983704" duration="12079000" />
+      <workItem from="1606898734174" duration="5947000" />
+      <workItem from="1606983542200" duration="4394000" />
+      <workItem from="1606990936989" duration="1998000" />
+      <workItem from="1607000456183" duration="7967000" />
+      <workItem from="1607070183013" duration="7517000" />
+      <workItem from="1607097918467" duration="628000" />
+      <workItem from="1607265227119" duration="3000" />
+      <workItem from="1607328470008" duration="8918000" />
+      <workItem from="1607356738500" duration="1215000" />
+      <workItem from="1607414834178" duration="904000" />
+      <workItem from="1607431778166" duration="2698000" />
+      <workItem from="1607502259213" duration="11422000" />
+      <workItem from="1607587434477" duration="11745000" />
+      <workItem from="1607674262225" duration="1828000" />
+      <workItem from="1607690239346" duration="3156000" />
+      <workItem from="1607886904362" duration="110000" />
+      <workItem from="1608106161288" duration="11098000" />
+      <workItem from="1608192556409" duration="6885000" />
+      <workItem from="1608214383080" duration="2467000" />
+      <workItem from="1608279060488" duration="5063000" />
+      <workItem from="1608296117704" duration="3375000" />
+      <workItem from="1608538015545" duration="4515000" />
+      <workItem from="1608555146380" duration="2431000" />
+      <workItem from="1608650509282" duration="2178000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ajout des pdf / conf et pleins d'autres trucs">
+      <created>1603466923276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603466923276</updated>
+    </task>
+    <task id="LOCAL-00002" summary="g changer trop de truc">
+      <created>1604679413784</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604679413784</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add a way to delete picture from an row on knowledge&#10;remove mail route (unused)">
+      <created>1604931434320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604931434320</updated>
+    </task>
+    <task id="LOCAL-00004" summary="need to debug something">
+      <created>1604932650333</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604932650333</updated>
+    </task>
+    <task id="LOCAL-00005" summary="need to debug something">
+      <created>1604932967808</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604932967808</updated>
+    </task>
+    <task id="LOCAL-00006" summary="need to debug something">
+      <created>1604933041373</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604933041373</updated>
+    </task>
+    <task id="LOCAL-00007" summary="need to debug something">
+      <created>1604933165900</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604933165900</updated>
+    </task>
+    <task id="LOCAL-00008" summary="need to debug something">
+      <created>1604940159022</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604940159022</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed issue #0">
+      <created>1605011930333</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605011930333</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixed issue #0.1">
+      <created>1605011976529</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605011976529</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added the function to edit CompanyInfo&#10;added somme images files">
+      <created>1605190930676</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605190930676</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added the method to edit the row from knowledge controller (misisng edit method)">
+      <created>1605264390051</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605264390051</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added the method to edit the row from knowledge controller">
+      <created>1605284205146</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605284205146</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Moove the theme switch on account system &#10;Add the variant for logo">
+      <created>1605536286820</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605536286820</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fix call to font file">
+      <created>1605540553520</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605540553520</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Edited all of the upload to make them woriking on a server&#10;added a way to delete item from knowledge.js">
+      <created>1605544890936</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605544890936</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Fixed some bugs&#10;Added delivery system">
+      <created>1605697002130</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605697002130</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Test for https server">
+      <created>1605709785625</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605709785625</updated>
+    </task>
+    <task id="LOCAL-00019" summary="removed .env">
+      <created>1605709890760</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605709890760</updated>
+    </task>
+    <task id="LOCAL-00020" summary="removed .env">
+      <created>1605709936222</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605709936222</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Update for prod version">
+      <created>1605794700937</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605794700937</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update for prod version">
+      <created>1605794921953</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1605794921953</updated>
+    </task>
+    <task id="LOCAL-00023" summary="commit #1">
+      <created>1605881035252</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1605881035252</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added scheduled init on conf">
+      <created>1605882152203</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1605882152203</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Update logo">
+      <created>1605882873435</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1605882873435</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Update logo">
+      <created>1606395189487</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1606395189487</updated>
+    </task>
+    <task id="LOCAL-00027" summary="on peut edit les templates">
+      <created>1606815944476</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1606815944476</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Update gitignre">
+      <created>1606815982474</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1606815982474</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Test cors">
+      <created>1607003451833</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1607003451833</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Update CORS">
+      <created>1607003870634</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1607003870634</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Update CORS and many other things">
+      <created>1607004674432</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1607004674432</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Update CORS">
+      <created>1607004909462</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1607004909462</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Update CORS">
+      <created>1607008395938</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1607008395938</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Fix company add">
+      <created>1607011431533</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1607011431533</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Commit #5">
+      <created>1607613116307</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1607613116307</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="g changer trop de truc" />
+    <MESSAGE value="Add a way to delete picture from an row on knowledge&#10;remove mail route (unused)" />
+    <MESSAGE value="need to debug something" />
+    <MESSAGE value="Fixed issue #0" />
+    <MESSAGE value="Fixed issue #0.1" />
+    <MESSAGE value="Added the function to edit CompanyInfo&#10;added somme images files" />
+    <MESSAGE value="Added the method to edit the row from knowledge controller (misisng edit method)" />
+    <MESSAGE value="Added the method to edit the row from knowledge controller" />
+    <MESSAGE value="Moove the theme switch on account system &#10;Add the variant for logo" />
+    <MESSAGE value="Fix call to font file" />
+    <MESSAGE value="Edited all of the upload to make them woriking on a server&#10;added a way to delete item from knowledge.js" />
+    <MESSAGE value="Fixed some bugs&#10;Added delivery system" />
+    <MESSAGE value="Test for https server" />
+    <MESSAGE value="removed .env" />
+    <MESSAGE value="Update for prod version" />
+    <MESSAGE value="commit #1" />
+    <MESSAGE value="Added scheduled init on conf" />
+    <MESSAGE value="Update logo" />
+    <MESSAGE value="on peut edit les templates" />
+    <MESSAGE value="Update gitignre" />
+    <MESSAGE value="Test cors" />
+    <MESSAGE value="Update CORS and many other things" />
+    <MESSAGE value="Update CORS" />
+    <MESSAGE value="Fix company add" />
+    <MESSAGE value="Commit #5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit #5" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2652" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608651030263">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2652" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608651030263" />
+    <state x="2610" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608651067207">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608651067207" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1608652694884">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608652694884" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1608652694884">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608652694884" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1608652694883">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608652694883" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1608652694884">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608652694884" />
+  </component>
+</project>
