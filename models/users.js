@@ -7,10 +7,10 @@ const mongo = require('mongoose')
  *  2 - Admin
  */
 const users_schema = new Schema({
-    name: { type: String },
-    surname: { type: String },
-    password: { type: String },
-    mail: { type: String}
+    name: {type: String},
+    surname: {type: String},
+    password: {type: String},
+    mail: {type: String}
 })
 
 const users = mongo.model('users', users_schema)

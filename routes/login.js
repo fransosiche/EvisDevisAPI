@@ -9,7 +9,7 @@ const corsOptions = {
 }
 
 
-router.post('/login', cors(corsOptions), function (req, res, next) {
+router.post('/', cors(corsOptions), function (req, res, next) {
     loginController.login(req, res)
 });
 

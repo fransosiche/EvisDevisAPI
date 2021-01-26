@@ -8,7 +8,7 @@ const corsOptions = {
     optionsSuccessStatus: 200
 }
 
-router.post('/register', cors(corsOptions), function (req, res, next) {
+router.post('/', cors(corsOptions), function (req, res, next) {
     console.log('testest')
     registerController.register(req, res)
 });

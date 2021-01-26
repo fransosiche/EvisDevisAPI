@@ -56,8 +56,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="javascript.nodejs.core.library.typings.version" value="12.19.8" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.22" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -72,6 +72,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programmation\React\EvisDevisAPI" />
       <recent name="C:\Users\gurva\PhpstormProjects\evicket_api\public\images" />
       <recent name="C:\Users\PC-LENOVO-1\PhpstormProjects\evicket_api\upload" />
     </key>
@@ -194,6 +195,7 @@
       <workItem from="1608538015545" duration="4515000" />
       <workItem from="1608555146380" duration="2431000" />
       <workItem from="1608650509282" duration="2178000" />
+      <workItem from="1611653350895" duration="2278000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout des pdf / conf et pleins d'autres trucs">
       <created>1603466923276</created>
@@ -444,20 +446,19 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -487,31 +488,5 @@
     <MESSAGE value="Fix company add" />
     <MESSAGE value="Commit #5" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit #5" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2652" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608651030263">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2652" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608651030263" />
-    <state x="2610" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608651067207">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2610" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608651067207" />
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1608652694884">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608652694884" />
-    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1608652694884">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608652694884" />
-    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1608652694883">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608652694883" />
-    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1608652694884">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1608652694884" />
   </component>
 </project>
