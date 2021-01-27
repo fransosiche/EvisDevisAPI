@@ -58,7 +58,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.4" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.22" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/controller" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -67,11 +67,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="CodeWithMe" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programmation\React\EvisDevisAPI\controller" />
+      <recent name="D:\Programmation\React\EvisDevisAPI\routes" />
       <recent name="D:\Programmation\React\EvisDevisAPI" />
       <recent name="C:\Users\gurva\PhpstormProjects\evicket_api\public\images" />
       <recent name="C:\Users\PC-LENOVO-1\PhpstormProjects\evicket_api\upload" />
@@ -195,7 +197,16 @@
       <workItem from="1608538015545" duration="4515000" />
       <workItem from="1608555146380" duration="2431000" />
       <workItem from="1608650509282" duration="2178000" />
-      <workItem from="1611653350895" duration="2278000" />
+      <workItem from="1611653350895" duration="2296000" />
+      <workItem from="1611658069746" duration="752000" />
+      <workItem from="1611663354486" duration="59000" />
+      <workItem from="1611663615366" duration="52000" />
+      <workItem from="1611664055075" duration="3000" />
+      <workItem from="1611664170127" duration="2691000" />
+      <workItem from="1611679063653" duration="1178000" />
+      <workItem from="1611734899202" duration="651000" />
+      <workItem from="1611736868000" duration="710000" />
+      <workItem from="1611738172180" duration="3205000" />
     </task>
     <task id="LOCAL-00001" summary="Ajout des pdf / conf et pleins d'autres trucs">
       <created>1603466923276</created>

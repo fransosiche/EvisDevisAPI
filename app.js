@@ -11,6 +11,7 @@ require('dotenv').config()
 
 const loginRouter = require('./routes/login');
 const registerRouter = require('./routes/register');
+const listRouter = require('./routes/list');
 
 // CORS policies
 const corsOptions = {
@@ -42,6 +43,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/login', loginRouter);
 app.use('/register', registerRouter);
+app.use('/list', listRouter);
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
@@ -53,7 +55,7 @@ app.use(function (err, req, res, next) {
     // set locals, only providing error in development
     res.locals.message = err.message;
     res.locals.error = req.app.get('env') === 'development' ? err : {};
-    res.header("Access-Control-Allow-Origin", "http://localhost:8000/"); // update to match the domain you will make the request from
+    res.header("Access-Control-Allow-Origin", "http://localhost:19006"); // update to match the domain you will make the request from
     res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
     // render the error page
     res.status(err.status || 500);
