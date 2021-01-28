@@ -13,7 +13,7 @@ let auth = {
             } else if (!user) {
                 console.log(user)
                 console.log(req.body.mail)
-                res.status(202).json({
+                res.status(500).json({
                     message: "Cette adresse mail n'est associée à aucun compte",
                     error: err
                 })
