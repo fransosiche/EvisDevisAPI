@@ -13,4 +13,8 @@ router.get('/', cors(corsOptions), function (req, res, next) {
     listController.getList(req, res)
 });
 
+router.post('/add', cors(corsOptions), function (req, res, next) {
+    listController.addItem(req, res)
+});
+
 module.exports = router
